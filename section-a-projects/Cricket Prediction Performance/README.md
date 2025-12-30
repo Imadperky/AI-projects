@@ -115,7 +115,7 @@ This project demonstrates how machine learning can be effectively applied to cri
 
  ---
 
- ##Link of colab to access the whole code 
+ ## 🔗 Link of colab to access the whole code 
  
  https://colab.research.google.com/drive/1Hz2Uplydec1RB-vB4WJhGT4oEJxblE1b#scrollTo=YotiUqjSoFqn
  ---
